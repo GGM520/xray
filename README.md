@@ -8,3 +8,4 @@
 [VPS注册链接] (https://cloudpowerall.com/aff.php?aff=3528)
 
 wget -N --no-check-certificate https://raw.githubusercontent.com/ytbclub/tools/main/xray.sh && bash xray.sh
+上面链接是别人的
